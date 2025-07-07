@@ -11,13 +11,13 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Home",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Introdução",
             "pages": [
-              "index",
-              "quickstart",
+              "Quem é a Lidy",
+              "Para quem é a Lidy",
               "development"
             ]
           },
